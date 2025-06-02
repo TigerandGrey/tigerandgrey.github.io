@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+这是我的文字存放处，存放我的经验和学习内容。
+This is my words-land, in where I share my experience & learning things.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+可能出现的内容：编程、语言、养生、音乐、绘画、旅行...
+Might contain: fullstack developing skills, language, health, music, painting, traveling...
